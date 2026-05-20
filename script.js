@@ -27,7 +27,7 @@ const gamesData = [
         {
         title: "Draw A Line",
         description: "Puzzle maze game where you must learn the rules.",
-        image: "line.png",
+        image: "lines.png",
         link: "https://daytonyb.github.io/lines/",
     }
 ];
