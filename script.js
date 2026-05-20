@@ -23,6 +23,12 @@ const gamesData = [
         description: "Puzzle platformer game with difficult mechanics",
         image: "Spacebar.png",
         link: "https://daytonyb.github.io/spacebar/",
+    },
+        {
+        title: "Draw A Line",
+        description: "Puzzle maze game where you must learn the rules.",
+        image: "line.png",
+        link: "https://daytonyb.github.io/lines/",
     }
 ];
 
