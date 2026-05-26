@@ -20,7 +20,7 @@ const gamesData = [
     },
     {
         title: "Where's My Spacebar?",
-        description: "Puzzle platformer game with difficult mechanics",
+        description: "Puzzle platformer game with difficult mechanics.",
         image: "Spacebar.png",
         link: "https://daytonyb.github.io/spacebar/",
     },
@@ -29,6 +29,12 @@ const gamesData = [
         description: "Puzzle maze game where you must learn the rules.",
         image: "lines.png",
         link: "https://daytonyb.github.io/lines/",
+    },
+            {
+        title: "Luck of the Dice",
+        description: "Luck based multiplayer dice game where you want to survive longer than your enemies.",
+        image: "gamble.png",
+        link: "https://daytonyb.github.io/gamble/",
     }
 ];
 
