@@ -41,6 +41,12 @@ const gamesData = [
         description: "A difficult tower defense rougelike with many different upgrades.",
         image: "ruins.png",
         link: "https://daytonyb.github.io/tower/",
+    },
+    {
+        title: "Tagshift",
+        description: "A local multiplayer game: Tag with a twist!",
+        image: "tagshift.png",
+        link: "https://daytonyb.github.io/Tagshift/",
     }
 ];
 
